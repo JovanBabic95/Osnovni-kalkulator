@@ -1,2 +1,2 @@
 # Osnovni-kalkulator
-Izrada i deljenje koda 
+Izrada i deljenje koda .
